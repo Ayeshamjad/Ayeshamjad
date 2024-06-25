@@ -3,11 +3,9 @@
 
 - 🔭 I’m currently working on [Qissa Sunao(A platform for Urdu storytelling with voice model and animated story generation.)](private)
 
-- 🌱 I’m currently learning **Voice Cloning, Image Generation**
-
 - 👨‍💻 All of my projects are available at [https://github.com/Ayeshamjad](https://github.com/Ayeshamjad)
 
-- 💬 Ask me about **MERN, Python, Laravel**
+- 💬 Ask me about **MERN, Python, React Ntive, FAST API**
 
 - 📫 How to reach me **ayeshaamjad016@gmail.com**
 
