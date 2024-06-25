@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ayeshamjad](https://github.com/Ayeshamjad)
 
-- 💬 Ask me about **MERN, Python, React Ntive, FAST API**
+- 💬 Ask me about **MERN, Python, React Native, FAST API**
 
 - 📫 How to reach me **ayeshaamjad016@gmail.com**
 
