@@ -1,7 +1,6 @@
 <h1 align="center">Hi, I'm Ayesha Amjad</h1>
-<h3 align="center">Software engineering student with experience in web/app development. Currently exploring the fascinating world of AI and working on innovative AI applications.</h3>
+<h3 align="center">Artifical Intelligence student with experience in web development and Model training. Currently exploring the fascinating world of AI and working on innovative AI applications.</h3>
 
-- 🔭 I’m currently working on [Qissa Sunao(A platform for Urdu storytelling with voice model and animated story generation.)](private)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ayeshamjad](https://github.com/Ayeshamjad)
 
