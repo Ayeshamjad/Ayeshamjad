@@ -56,7 +56,4 @@ Passionate about AI, web development, and building innovative solutions. Current
   </a>  
 </p>
 
----
-
-"Learning never stops!"_  
 
